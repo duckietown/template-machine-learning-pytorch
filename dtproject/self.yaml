@@ -1,8 +1,8 @@
-name: "<PROJECT_NAME_HERE>"
+name: "template-machine-learning-pytorch"
 maintainer:
-    name: "<YOUR_FULL_NAME>"
-    email: "<YOUR_EMAIL_ADDRESS>"
-description: "<PROJECT_DESCRIPTION_HERE>"
+    name: "Liam Paull"
+    email: "liam@duckietown.com"
+description: "This is a template for running "
 version: 0.0.0
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 icon: square
